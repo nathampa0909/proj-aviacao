@@ -1,0 +1,19 @@
+#dl-menu{z-index:9999999999999999999;}
+
+@media screen and (max-width:1000px) {
+	
+	.menuext {display:none} 
+	#HEADER-EXT {display:none}
+	#mobmenu {min-height:40px; display:view; max-width:100%;padding:15px; }
+	#mmob {float:left; padding-top:10px;}
+	#logomob {float:right; max-width:200px; text-align:center;position:absolut; left:50%; right:50%}
+	#mobmenu img {max-width:210px;}
+	}
+	
+	
+	@media screen and (min-width:1000px) {
+	#mobmenu {display:none;}
+	
+	}
+	
+	

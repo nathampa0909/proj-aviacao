@@ -1,0 +1,852 @@
+# Translation of Themes - VW Corporate Business in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - VW Corporate Business package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-30 15:38:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - VW Corporate Business\n"
+
+#. Description of the plugin/theme
+msgid "VW Business theme is known for its uniqueness. It can be an excellent selection for the startups and the medium sized companies. Being a suitable theme for the marketing as well as promotion of business online, it is totally conceptualised and has the professional design that will the cause of envy for many rivals. Suitable for the corporate business as well as the business websites, this theme covers various business verticals like architecture, health, design, art, aviation, ecommerce and much more. Apart from this, this advanced theme VW business is very much suitable for the bloggers, travellers and the shop owners. Since it is SEO friendly as well as mobile friendly, it is a high suitability for the business enterprises as well as business portfolios. Because of its compatibility with the different browsers and the user friendly characteristics, it is very much suitable for the corporate businesses, digital agencies and a top priority for consultants as well. One of the specialities about VW business is the elegant and sophisticated testimonial section. Besides this, it is SEO roundly as well. Since it is based on Bootstrap, you have the stunning websites and the compatibility factor is simply amazing. It has compatibility with the WooCommerce. The CTA [call to action button] will give directions to go to other page. Since VW business is translation ready with a secure and clean code, your business website can make it big easily on a global platform. Demo: https://www.vwthemes.net/vw-business-pro/"
+msgstr "O tema VW Business é conhecido por sua singularidade. Pode ser uma excelente seleção para startups e empresas de médio porte. Sendo um tema adequado para o marketing, bem como a promoção de negócios online, é totalmente conceituado e tem o design profissional que será a causa da inveja para muitos rivais. Adequado para o negócio corporativo, bem como os sites de negócios, este tema abrange vários verticais de negócios, como arquitetura, saúde, design, arte, aviação, comércio eletrônico e muito mais. Além disso, este tema avançado de negócios VW é muito adequado para os blogueiros, viajantes e donos de lojas. Desde que é SEO amigável, bem como dispositivo móvel amigável, é uma alta adequação para as empresas de negócios, bem como portfólios de negócios. Devido à sua compatibilidade com os diferentes navegadores e às características de fácil utilização, é muito adequado para os negócios corporativos, agências digitais e uma prioridade máxima para os consultores. Uma das especialidades dos negócios da VW é a elegante e sofisticada seção de depoimentos. Além disso, é SEO também. Desde que é baseado em Bootstrap, você tem os sites impressionantes e o fator de compatibilidade é simplesmente incrível. Tem compatibilidade com o WooCommerce. O CTA [botão de chamada para ação] dará instruções para ir para outra página. Como os negócios da VW estão prontos para a tradução com um código seguro e limpo, o site da sua empresa pode torná-lo fácil em uma plataforma global. Demonstração: https://www.vwthemes.net/vw-business-pro/"
+
+#. Theme Name of the plugin/theme
+msgid "VW Corporate Business"
+msgstr "VW Corporate Business"
+
+#: inc/getstart/getstart.php:378
+msgid "Demo Content"
+msgstr "Conteúdo de demonstração"
+
+#: inc/getstart/getstart.php:376
+msgid "We are providing the demo content file within the theme folder.  You will require an importer plugin to import the demo content."
+msgstr "Estamos fornecendo o arquivo de conteúdo de demonstração dentro da pasta do tema. Você exigirá um plugin do importador para importar o conteúdo de demonstração."
+
+#: inc/getstart/getstart.php:375
+msgid "Theme Demo Content"
+msgstr "Conteúdo de demonstração do tema"
+
+#: inc/getstart/getstart.php:370
+msgid "Contact Us"
+msgstr "Contate nos"
+
+#: inc/getstart/getstart.php:368
+msgid "If you have any queries after purchase, you can contact us. We are eveready to help you out."
+msgstr "Se você tiver alguma dúvida após a compra, você pode entrar em contato conosco. Estamos sempre prontos para ajudá-lo."
+
+#: inc/getstart/getstart.php:367
+msgid "Post-purchase Queries"
+msgstr "Consultas post-compra"
+
+#: inc/getstart/getstart.php:362
+msgid "View FAQ"
+msgstr "Ver o FAQ"
+
+#: inc/getstart/getstart.php:360
+msgid "We have gathered top most, frequently asked questions and answered them for your easy understanding. We will list down more as we get new challenging queries. Check back often."
+msgstr "Reunimos as perguntas mais frequentes e respondidas por sua fácil compreensão. Vamos listar mais abaixo à medida que recebemos novas consultas desafiadoras. Volte sempre."
+
+#: inc/getstart/getstart.php:359
+msgid "Frequently Asked Questions"
+msgstr "Perguntas frequentes"
+
+#: inc/getstart/getstart.php:354
+msgid "About Child Theme"
+msgstr "Sobre o tema descendente"
+
+#: inc/getstart/getstart.php:352
+msgid "For theme file customizations, make modifications in the child theme and not in the main theme file."
+msgstr "Para personalizações de arquivos de tema, faça modificações no tema descendente e não no arquivo de tema principal."
+
+#: inc/getstart/getstart.php:351
+msgid "Child Theme"
+msgstr "Tema Filho"
+
+#: inc/getstart/getstart.php:347
+msgid "Question"
+msgstr "Pergunta"
+
+#: inc/getstart/getstart.php:345
+msgid "If you have any pre-sale query, we are prepared to resolve it."
+msgstr "Se você tiver alguma consulta pré-venda, estamos preparados para resolvê-la."
+
+#: inc/getstart/getstart.php:344
+msgid "Pre-purchase Queries"
+msgstr "Consultas de pré-compra"
+
+#: inc/getstart/getstart.php:340
+msgid "Get Pro"
+msgstr "Obter Pro"
+
+#: inc/getstart/getstart.php:338
+msgid "To gain access to extra theme options and more interesting features, upgrade to pro version."
+msgstr "Para obter acesso a opções de temas extras e recursos mais interessantes, atualize para a versão pro."
+
+#: inc/getstart/getstart.php:337
+msgid "Pro Version"
+msgstr "Versão pro"
+
+#: inc/getstart/getstart.php:320
+msgid "Seamless Customer Support"
+msgstr "Suporte ao cliente seamless "
+
+#: inc/getstart/getstart.php:315
+msgid "All Access Theme Pass"
+msgstr "Acesso total ao tema passe"
+
+#: inc/getstart/getstart.php:310
+msgid "Custom Feature Addition"
+msgstr "Adição ao recurso personalizado"
+
+#: inc/getstart/getstart.php:305
+msgid "Priority Error Fixing"
+msgstr "Correção de erro de prioridade"
+
+#: inc/getstart/getstart.php:300
+msgid "Budget Friendly Value"
+msgstr "Orçamento de valor amigável"
+
+#: inc/getstart/getstart.php:295
+msgid "Premium Membership"
+msgstr "Afiliação premium"
+
+#: inc/getstart/getstart.php:290
+msgid "Custom Background, Colors, Header, Logo & Menu"
+msgstr "Fundo personalizado, cores, cabeçalho, logo e menu"
+
+#: inc/getstart/getstart.php:285
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: inc/getstart/getstart.php:280
+msgid "Support to add custom CSS / JS "
+msgstr "Suporte para adicionar CSS / JS personalizado"
+
+#: inc/getstart/getstart.php:275
+msgid "Simple & Mega Menu Option"
+msgstr "Opção de menu simples e mega"
+
+#: inc/getstart/getstart.php:270
+msgid "Gallery"
+msgstr "Galeria"
+
+#: inc/getstart/getstart.php:265
+msgid "Section Google Font Choices"
+msgstr "Seção Google Font Choices"
+
+#: inc/getstart/getstart.php:260
+msgid "Section Enable / Disable"
+msgstr "Seção ativar / desativar"
+
+#: inc/getstart/getstart.php:255
+msgid "Exclusive Functionalities"
+msgstr "Funcionalidades exclusivas"
+
+#: inc/getstart/getstart.php:250
+msgid "Secure and Optimized Code"
+msgstr "Código seguro e otimizado"
+
+#: inc/getstart/getstart.php:245
+msgid "Support 3rd Party Plugins"
+msgstr "Suporta Plugins de terceiros"
+
+#: inc/getstart/getstart.php:240
+msgid "Woo-Commerce Compatibility"
+msgstr "Compatibilidade com Woo-Commerce"
+
+#: inc/getstart/getstart.php:235
+msgid "Latest WordPress Compatibility"
+msgstr "Compatibilidade com o WordPress mais recentes"
+
+#: inc/getstart/getstart.php:230
+msgid "Full Documentation"
+msgstr "Documentação completa"
+
+#: inc/getstart/getstart.php:227
+msgid "2(Left/Right Sidebar)"
+msgstr "2(barra lateral esquerda/direita)"
+
+#: inc/getstart/getstart.php:225
+msgid "Page Templates & Layout"
+msgstr "Modelos de página e layout"
+
+#: inc/getstart/getstart.php:222
+msgid "3(Full width/Left/Right Sidebar)"
+msgstr "3 (largura total/barra lateral esquerda/direita)"
+
+#: inc/getstart/getstart.php:220
+msgid "Blog Templates & Layout"
+msgstr "Modelos e layout do blog"
+
+#: inc/getstart/getstart.php:215
+msgid "Contact us Page Template"
+msgstr "Modelo de página entre em contato conosco "
+
+#: inc/getstart/getstart.php:211 inc/getstart/getstart.php:212
+#: inc/getstart/getstart.php:217
+msgid "1"
+msgstr "1"
+
+#: inc/getstart/getstart.php:210
+msgid "Home Page Template"
+msgstr "Modelo de página inicial"
+
+#: inc/getstart/getstart.php:207
+msgid "6"
+msgstr "6"
+
+#: inc/getstart/getstart.php:206
+msgid "3"
+msgstr "3"
+
+#: inc/getstart/getstart.php:205
+msgid "Template Pages"
+msgstr "Páginas de modelo"
+
+#: inc/getstart/getstart.php:202
+msgid "Unlimited"
+msgstr "Ilimitado"
+
+#: inc/getstart/getstart.php:201
+msgid "4"
+msgstr "4"
+
+#: inc/getstart/getstart.php:200
+msgid "Number of Slides"
+msgstr "Número de slides"
+
+#: inc/getstart/getstart.php:190
+msgid "Social Media Links"
+msgstr "Links de mídia social"
+
+#: inc/getstart/getstart.php:185
+msgid "Logo Upload"
+msgstr "Enviar logo"
+
+#: inc/getstart/getstart.php:180
+msgid "Responsive Design"
+msgstr "Design responsivo"
+
+#: inc/getstart/getstart.php:175
+msgid "Theme Customization"
+msgstr "Personalização de temas"
+
+#: inc/getstart/getstart.php:170
+msgid "Premium Themes"
+msgstr "Temas premiun"
+
+#: inc/getstart/getstart.php:169
+msgid "Free Themes"
+msgstr "Tema gratuitos"
+
+#: inc/getstart/getstart.php:162
+msgid "Theme Features"
+msgstr "Recursos do tema"
+
+#: inc/getstart/getstart.php:155
+msgid "Pro Documentation"
+msgstr "Documentação pro"
+
+#: inc/getstart/getstart.php:154
+msgid "Buy Pro"
+msgstr "Comprar pro"
+
+#: inc/getstart/getstart.php:153
+msgid "Live Demo"
+msgstr "Demonstração ao vivo"
+
+#: inc/getstart/getstart.php:151
+msgid "WordPress themes for business do have enormous features that are very important for the online business needs. You can also call them as the cutting edge masterpieces of WordPress development. The successful business is the one that adapts to the market and such themes are helpful in fulfilling this condition. One of the special features is the crisp typography making them perfect option for the full screen image sliders as well as the white space. With themes of such category, you have the drag and drop massive builder. With this, you can create the layouts. Another characteristic is the flexibility enabling endless header and page design. These themes of premium level come with the innumerable shortcodes and this is to help in the website design. With some of such themes, you have many layout options and can approach all from theme customization panel. WordPress themes for business are beneficial for your online business growth and development."
+msgstr "Temas WordPress para empresas têm enormes recursos que são muito importantes para as necessidades de negócios online. Você também pode chamá-los de obras-primas de ponta do desenvolvimento do WordPress. O negócio de sucesso é aquele que se adapta ao mercado e tais temas são úteis para o cumprimento desta condição. Uma das características especiais é a tipografia nítida, tornando-os a opção perfeita para os controles deslizantes de imagem em tela cheia, bem como o espaço em branco. Com temas de tal categoria, você tem o construtor massivo de arrastar e soltar. Com isso, você pode criar os layouts. Outra característica é a flexibilidade que permite o design infinito de cabeçalhos e páginas. Estes temas de nível premium vêm com os inúmeros shortcodes e isso é para ajudar no design do site. Com alguns desses temas, você tem muitas opções de layout e pode abordar tudo a partir do painel de personalização de temas. Temas WordPress para negócios são benéficos para o crescimento e desenvolvimento de seus negócios online."
+
+#: inc/getstart/getstart.php:148
+msgid "Premium Theme Information"
+msgstr "Informações sobre o tema premium"
+
+#: inc/getstart/getstart.php:142
+msgid " Once you are done with this, you can see all the demo content on front page. "
+msgstr "Quando terminar, você poderá ver todo o conteúdo da demonstração na primeira página."
+
+#: inc/getstart/getstart.php:140
+msgid " Settings -&gt; Reading --&gt; Set the front page display static page to home page "
+msgstr "Configurações -> leitura -> definir a página estática de exibição da página principal para a página inicial"
+
+#: inc/getstart/getstart.php:139
+msgid " Go to "
+msgstr "Vamos para"
+
+#: inc/getstart/getstart.php:139
+msgid "2. Set the front page:"
+msgstr "2. Defina a primeira página:"
+
+#: inc/getstart/getstart.php:137
+msgid "Label it \"home\" or anything as you wish. Then select template \"home-page\" from template dropdown."
+msgstr "Rotule-o como \"inicial\" ou qualquer coisa como desejar. Em seguida, selecione o modelo da \"página inicial\" no menu dropdown do modelo."
+
+#: inc/getstart/getstart.php:136
+msgid "Dashboard &gt;&gt; Pages &gt;&gt; Add New Page"
+msgstr "Painel de controle >> páginas >> adicionar nova página"
+
+#: inc/getstart/getstart.php:135
+msgid "1. Create a Page to set template:  Go to "
+msgstr "1. Crie uma página para definir o modelo: vá para"
+
+#: inc/getstart/getstart.php:133
+msgid "Follow these instructions to setup Home page."
+msgstr "Siga estas instruções para configurar a página inicial."
+
+#: inc/getstart/getstart.php:131
+msgid "How to set up Home Page Template"
+msgstr "Como configurar o modelo de página inicial"
+
+#: inc/getstart/getstart.php:124
+msgid "Footer Text"
+msgstr "Texto de rodapé"
+
+#: inc/getstart/getstart.php:121
+msgid "Blog Layout"
+msgstr "Layout do Blog "
+
+#: inc/getstart/getstart.php:115
+msgid "Footer Widget"
+msgstr "Widget do rodapé"
+
+#: inc/getstart/getstart.php:112
+msgid "Menus"
+msgstr "Menus"
+
+#: inc/getstart/getstart.php:96
+msgid "Upload your logo"
+msgstr "Enviar sua logo"
+
+#: inc/getstart/getstart.php:91
+msgid "Link to customizer"
+msgstr "Vincular ao personalizador"
+
+#: inc/getstart/getstart.php:88
+msgid "Reviews"
+msgstr "Avaliação"
+
+#: inc/getstart/getstart.php:86
+msgid "All the features and aspects of this WordPress Theme are phenomenal. I'd recommend this theme to all."
+msgstr "Todos os recursos e aspectos deste tema WordPress são fenomenais. Eu recomendaria esse tema para todos."
+
+#: inc/getstart/getstart.php:85
+msgid "Reviews & Testimonials"
+msgstr "Avaliação e depoimento"
+
+#: inc/getstart/getstart.php:82
+msgid "Support Forum"
+msgstr "Fórum de suporte"
+
+#: inc/getstart/getstart.php:80
+msgid "Our dedicated team is well prepared to help you out in case of queries and doubts regarding our theme."
+msgstr "Nossa equipe dedicada está bem preparada para ajudá-lo em caso de consultas e dúvidas sobre o nosso tema."
+
+#: inc/getstart/getstart.php:79
+msgid "Having Trouble, Need Support?"
+msgstr "Tendo problemas, precisa de suporte?"
+
+#: inc/getstart/getstart.php:76
+msgid "Customizing"
+msgstr "Personalizar"
+
+#: inc/getstart/getstart.php:74
+msgid "To begin customizing your website, start by clicking \"Customize\"."
+msgstr "Para começar a personalizar seu site, iniciar clicando em \"personalizar\"."
+
+#: inc/getstart/getstart.php:73
+msgid "Theme Customizer"
+msgstr "Personalizador de tema"
+
+#: inc/getstart/getstart.php:68
+msgid "If you need any assistance regarding setting up and configuring the Theme, our documentation is there."
+msgstr "Se você precisar de alguma ajuda sobre configuração do tema, nossa documentação está lá."
+
+#: inc/getstart/getstart.php:67
+msgid "Theme Documentation"
+msgstr "Documentação do tema"
+
+#: inc/getstart/getstart.php:65
+msgid " VW Business theme is known for its uniqueness. It can be an excellent selection for the startups and the medium sized companies. Being a suitable theme for the marketing as well as promotion of business online, it is totally conceptualised and has the professional design that will the cause of envy for many rivals. Suitable for the corporate business as well as the business websites, this theme covers various business verticals like architecture, health, design, art, aviation, ecommerce and much more. Apart from this, this advanced theme VW business is very much suitable for the bloggers, travellers and the shop owners. Since it is SEO friendly as well as mobile friendly, it is a high suitability for the business enterprises as well as business portfolios. Because of its compatibility with the different browsers and the user friendly characteristics, it is very much suitable for the corporate businesses, digital agencies and a top priority for consultants as well. One of the specialities about VW business is the elegant and sophisticated testimonial section. Besides this, it is SEO roundly as well. Since it is based on Bootstrap, you have the stunning websites and the compatibility factor is simply amazing. It has compatibility with the WooCommerce. The CTA [call to action button] will give directions to go to other page. Since VW business is translation ready with a secure and clean code, your business website can make it big easily on a global platform."
+msgstr " O tema VW Business é conhecido por sua singularidade. Pode ser uma excelente seleção para startups e empresas de médio porte. Sendo um tema adequado para o marketing, bem como a promoção de negócios online, é totalmente conceituado e tem o design profissional que será a causa da inveja para muitos rivais. Adequado para o negócio corporativo, bem como os sites de negócios, este tema abrange vários verticais de negócios, como arquitetura, saúde, design, arte, aviação, comércio eletrônico e muito mais. Além disso, este tema avançado de negócios VW é muito adequado para os blogueiros, viajantes e donos de lojas. Desde que é SEO amigável, bem como dispositivo móvel amigável, é uma alta adequação para as empresas de negócios, bem como portfólios de negócios. Devido à sua compatibilidade com os diferentes navegadores e às características de fácil utilização, é muito adequado para os negócios corporativos, agências digitais e uma prioridade máxima para os consultores. Uma das especialidades dos negócios da VW é a elegante e sofisticada seção de depoimentos. Além disso, é SEO também. Desde que é baseado em Bootstrap, você tem os sites impressionantes e o fator de compatibilidade é simplesmente incrível. Tem compatibilidade com o WooCommerce. O CTA [botão de chamada para ação] dará instruções para ir para outra página. Como os negócios da VW estão prontos para a tradução com um código seguro e limpo, o site da sua empresa pode torná-lo fácil em uma plataforma global."
+
+#: inc/getstart/getstart.php:63
+msgid "Lite Theme Information"
+msgstr "Informação do tema lite"
+
+#: inc/getstart/getstart.php:58
+msgid "Support"
+msgstr "Ajuda"
+
+#: inc/getstart/getstart.php:57
+msgid "Get Premium"
+msgstr "Obter premium"
+
+#: inc/getstart/getstart.php:56
+msgid "Getting Started"
+msgstr "Começando"
+
+#: inc/getstart/getstart.php:49 inc/getstart/getstart.php:327
+msgid "Upgrade to Pro"
+msgstr "Atualizar para pro"
+
+#: inc/getstart/getstart.php:47
+msgid "vwten2018"
+msgstr "vwten2018"
+
+#: inc/getstart/getstart.php:47
+msgid "Use Coupon"
+msgstr "Use cupom"
+
+#: inc/getstart/getstart.php:46
+msgid "Buy VW Tour at 10% Discount"
+msgstr "Compre o VW Tour com 10% de desconto"
+
+#: inc/getstart/getstart.php:39
+msgid "All our WordPress themes are modern, minimalist, 100% responsive, seo-friendly,feature-rich, and multipurpose that best suit designers, bloggers and other professionals who are working in the creative fields."
+msgstr "Todos os nossos temas WordPress são modernos, minimalistas, 100% responsivos, seo-friendly, rico em recursos e multiuso que melhor se adequam a designers, blogueiros e outros profissionais que estão trabalhando nos campos criativos."
+
+#: inc/getstart/getstart.php:38
+msgid "Welcome to VW Corporate Business Theme"
+msgstr "Boas vindas ao tema VW Corporate Business"
+
+#: inc/getstart/getstart.php:5
+msgid "About VW Corporate Business"
+msgstr "Sobre a VW Corporate Business"
+
+#: inc/customizer.php:266
+msgid "Docs"
+msgstr "Docs"
+
+#: inc/customizer.php:265 inc/getstart/getstart.php:70
+msgid "Documentation"
+msgstr "Documentação"
+
+#: functions.php:68
+msgid "Thank you for choosing VW Corporate Business Theme. Would like to have you on our Welcome page so that you can reap all the benefits of our VW Corporate Business Theme."
+msgstr "Que bom que você escolheu o VW Corporate Business Theme. Gostaria de ter você em nossa página de boas-vindas para que você possa aproveitar todos os benefícios do nosso tema VW Corporate Business."
+
+#: functions.php:67
+msgid "Warm Greetings to you!!"
+msgstr "Saudações calorosas para você !!"
+
+#. Template Name of the plugin/theme
+msgid "Page with Right Sidebar"
+msgstr "Página com barra lateral direita"
+
+#. Template Name of the plugin/theme
+msgid "Page with Left Sidebar"
+msgstr "Página com barra lateral esquerda"
+
+#. Template Name of the plugin/theme
+msgid "Custom Home"
+msgstr "Página inicial personalizado"
+
+#: template-parts/single-post-layout.php:39
+msgid "Previous post:"
+msgstr "Post anterior:"
+
+#: template-parts/single-post-layout.php:38
+msgid "Previous"
+msgstr "Anterior"
+
+#: template-parts/single-post-layout.php:36
+msgid "Next post:"
+msgstr "Próximo post:"
+
+#: template-parts/single-post-layout.php:35
+msgid "Next"
+msgstr "Próximo"
+
+#: template-parts/single-post-layout.php:30
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Publicados em</span><span class=\"post-title\">%title</span>"
+
+#: template-parts/image-layout.php:32
+msgid "Edit"
+msgstr "Editar"
+
+#: template-parts/image-layout.php:27
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/header/navigation.php:22
+msgid "#"
+msgstr "#"
+
+#: template-parts/header/navigation.php:1
+msgid "Menu"
+msgstr "Menu"
+
+#: template-parts/header/content-header.php:18
+msgid "support@example.com"
+msgstr "support@example.com"
+
+#: template-parts/header/content-header.php:13
+msgid "123-456-7890"
+msgstr "123-456-7890"
+
+#: template-parts/header/content-header.php:8
+msgid "789 Dummy Street, USA 440213"
+msgstr "789 Dummy Street, USA 440213"
+
+#: template-parts/content-audio.php:48 template-parts/content-gallery.php:35
+#: template-parts/content-image.php:29 template-parts/content-video.php:46
+#: template-parts/content.php:29 template-parts/grid-layout.php:25
+msgid "Read More"
+msgstr "Leia mais"
+
+#: template-parts/content-audio.php:42 template-parts/content-gallery.php:29
+#: template-parts/content-image.php:23 template-parts/content-video.php:40
+#: template-parts/content.php:23 template-parts/single-post-layout.php:14
+msgid "% Comments"
+msgstr "% Comentários"
+
+#: template-parts/content-audio.php:42 template-parts/content-gallery.php:29
+#: template-parts/content-image.php:23 template-parts/content-video.php:40
+#: template-parts/content.php:23 template-parts/single-post-layout.php:14
+msgid "0 Comments"
+msgstr "0 Comentários"
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr "Meta"
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr "Arquivos"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Pesquisar"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Pesquisar"
+
+#: page-template/custom-home-page.php:74
+msgid "READ MORE"
+msgstr "LEIA MAIS"
+
+#: functions.php:69 page-template/custom-home-page.php:38
+#: template-parts/header/navigation.php:22
+msgid "GET STARTED"
+msgstr "INICIAR"
+
+#: no-results.php:26
+msgid "Back to Home Page"
+msgstr "Voltar à página inicial"
+
+#: no-results.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Desculpe, mas nada correspondeu aos seus termos de pesquisa. Tente novamente com algumas palavras-chave diferentes."
+
+#: no-results.php:19
+msgid "Ready to publish your first post? Get started here."
+msgstr "Pronto para publicar seu primeiro post? Inciar aqui."
+
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: inc/customizer.php:253
+msgid "Upgrade Pro"
+msgstr "Atualizar Pro"
+
+#: inc/customizer.php:252
+msgid "Business Pro Theme"
+msgstr "Tema Business Pro"
+
+#: inc/customizer.php:168
+msgid "Copyright Text"
+msgstr "Texto de direitos autorais"
+
+#: inc/customizer.php:159
+msgid "This section will appear in the footer"
+msgstr "Esta seção aparecerá no rodapé"
+
+#: inc/customizer.php:158
+msgid "Footer"
+msgstr "Rodapé"
+
+#: inc/customizer.php:152
+msgid "Select post"
+msgstr "Selecione o post"
+
+#: inc/customizer.php:136
+msgid "Add About sections below."
+msgstr "Adicione sobre as seções abaixo."
+
+#: inc/customizer.php:135 inc/getstart/getstart.php:107
+msgid "About Section"
+msgstr "Sobre a seção"
+
+#: inc/customizer.php:127
+msgid "Select Slide Image Page"
+msgstr "Selecione a página da imagem de slide"
+
+#: inc/customizer.php:114 inc/getstart/getstart.php:99
+#: inc/getstart/getstart.php:195
+msgid "Slider Settings"
+msgstr "Configurações do slider"
+
+#: inc/customizer.php:106
+msgid "Add Get Started Link"
+msgstr "Adicionar link de início rápido"
+
+#: inc/customizer.php:95
+msgid "Add Get Started Text"
+msgstr "Adicionar texto de introdução"
+
+#: inc/customizer.php:84
+msgid "Add Email Address"
+msgstr "Adicionar endereço de e-mail"
+
+#: inc/customizer.php:73
+msgid "Add Call Number"
+msgstr "Adicionar número de chamada"
+
+#: inc/customizer.php:62
+msgid "Add Location Address"
+msgstr "Adicionar endereço de localização"
+
+#: inc/customizer.php:52
+msgid "Add TopBar Content here"
+msgstr "Adicione o conteúdo da barra superior aqui"
+
+#: inc/customizer.php:51 inc/getstart/getstart.php:104
+msgid "Topbar Section"
+msgstr "Seção da barra superior"
+
+#: inc/customizer.php:45
+msgid "Grid Layout"
+msgstr "Layout de Grade"
+
+#: inc/customizer.php:44
+msgid "Four Columns"
+msgstr "Quatro colunas"
+
+#: inc/customizer.php:43
+msgid "Three Columns"
+msgstr "Três colunas"
+
+#: inc/customizer.php:42
+msgid "One Column"
+msgstr "Uma colunas"
+
+#: inc/customizer.php:40
+msgid "Left Sidebar"
+msgstr "barra lateral esquerda"
+
+#: inc/customizer.php:37
+msgid "Do you want this section"
+msgstr "Você quer esta seção"
+
+#: inc/customizer.php:32 inc/customizer.php:41
+msgid "Right Sidebar"
+msgstr "barra lateral direita"
+
+#: inc/customizer.php:25
+msgid "General Settings"
+msgstr "Configurações gerais"
+
+#: inc/customizer.php:21
+msgid "Description of what this panel does."
+msgstr "Descrição do que este painel faz."
+
+#: inc/customizer.php:20
+msgid "VW Settings"
+msgstr "Configurações VW"
+
+#: inc/custom-widgets/social-profile.php:95
+msgid "Youtube:"
+msgstr "Youtube:"
+
+#: inc/custom-widgets/social-profile.php:91
+msgid "Tumblr:"
+msgstr "Tumblr:"
+
+#: inc/custom-widgets/social-profile.php:87
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: inc/custom-widgets/social-profile.php:83
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: inc/custom-widgets/social-profile.php:79
+msgid "Linkedin:"
+msgstr "Linkedin:"
+
+#: inc/custom-widgets/social-profile.php:75
+msgid "Google+:"
+msgstr "Google+:"
+
+#: inc/custom-widgets/social-profile.php:71
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: inc/custom-widgets/social-profile.php:67
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: inc/custom-widgets/social-profile.php:16
+msgid "Widget for Social icons section"
+msgstr "Widget para seção de ícones sociais"
+
+#: header.php:17
+msgid "http://gmpg.org/xfn/11"
+msgstr "http://gmpg.org/xfn/11"
+
+#: functions.php:238
+msgid "VWThemes"
+msgstr "Temas VW"
+
+#: functions.php:148
+msgid "Appears on top bar"
+msgstr "Aparece na barra superior"
+
+#: functions.php:147 inc/custom-widgets/social-profile.php:14
+msgid "Social Icon"
+msgstr "Ícone social"
+
+#: functions.php:138
+msgid "Appears on footer 4"
+msgstr "Aparece no rodapé 4"
+
+#: functions.php:137
+msgid "Footer Navigation 4"
+msgstr "Rodapé de navegação 4"
+
+#: functions.php:128
+msgid "Appears on footer 3"
+msgstr "Aparece no rodapé 3"
+
+#: functions.php:127
+msgid "Footer Navigation 3"
+msgstr "Rodapé de navegação 3"
+
+#: functions.php:118
+msgid "Appears on footer 2"
+msgstr "Aparece no rodapé 2"
+
+#: functions.php:117
+msgid "Footer Navigation 2"
+msgstr "Rodapé de navegação 2"
+
+#: functions.php:108
+msgid "Appears on footer 1"
+msgstr "Aparece no rodapé 1"
+
+#: functions.php:107
+msgid "Footer Navigation 1"
+msgstr "Rodapé de navegação 1"
+
+#: functions.php:97
+msgid "Sidebar 3"
+msgstr "Barra lateral 3"
+
+#: functions.php:88 functions.php:98
+msgid "Appears on page sidebar"
+msgstr "Aparece na barra lateral da página"
+
+#: functions.php:87
+msgid "Page Sidebar"
+msgstr "Barra lateral da página"
+
+#: functions.php:78
+msgid "Appears on blog page sidebar"
+msgstr "Aparece na barra lateral da página do blog"
+
+#: functions.php:77
+msgid "Blog Sidebar"
+msgstr "Barra lateral do blog"
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: footer.php:31
+msgid "Corporate Bussines WordPress Theme By"
+msgstr "Tema do WordPress de negócios corporativos por"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Comentários estão fechados."
+
+#. translators: %s: post title
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Um comentário em &ldquo;%s&rdquo;"
+
+#: archive.php:45 archive.php:81 archive.php:116 archive.php:151
+#: archive.php:188 archive.php:227 image.php:40 image.php:73 image.php:105
+#: image.php:137 image.php:171 image.php:206 index.php:45 index.php:78
+#: index.php:110 index.php:142 index.php:176 index.php:211 search.php:40
+#: search.php:73 search.php:105 search.php:137 search.php:171 search.php:207
+#: single.php:40 single.php:73 single.php:105 single.php:137 single.php:171
+#: single.php:206
+msgid "Page"
+msgstr "Página"
+
+#: archive.php:44 archive.php:80 archive.php:115 archive.php:150
+#: archive.php:187 archive.php:226 image.php:39 image.php:72 image.php:104
+#: image.php:136 image.php:170 image.php:205 index.php:44 index.php:77
+#: index.php:109 index.php:141 index.php:175 index.php:210 search.php:39
+#: search.php:72 search.php:104 search.php:136 search.php:170 search.php:206
+#: single.php:39 single.php:72 single.php:104 single.php:136 single.php:170
+#: single.php:205
+msgid "Next page"
+msgstr "Próxima página"
+
+#: archive.php:43 archive.php:79 archive.php:114 archive.php:149
+#: archive.php:186 archive.php:225 image.php:38 image.php:71 image.php:103
+#: image.php:135 image.php:169 image.php:204 index.php:43 index.php:76
+#: index.php:108 index.php:140 index.php:174 index.php:209 search.php:38
+#: search.php:71 search.php:103 search.php:135 search.php:169 search.php:205
+#: single.php:38 single.php:71 single.php:103 single.php:135 single.php:169
+#: single.php:204
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: 404.php:17
+msgid "Return to the home page"
+msgstr "Retornar para a página inicial"
+
+#: 404.php:15 no-results.php:24
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "Não se preocupe &hellip acontece com o melhor de nós."
+
+#: 404.php:14
+msgid "Looks like you have taken a wrong turn&hellip"
+msgstr "Parece que você tomou um caminho errado &hellip"
+
+#: 404.php:13
+msgid "Not Found"
+msgstr "Não encontrado"
+
+#: 404.php:13
+msgid "404"
+msgstr "404"
+
+#. Author URI of the plugin/theme
+msgid "https://www.vwthemes.com/"
+msgstr "https://www.vwthemes.com/"
+
+#. Author of the plugin/theme
+msgid "VW Themes"
+msgstr "VW Themes"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.vwthemes.com/themes/free-wordpress-themes-for-business/"
+msgstr "https://www.vwthemes.com/themes/free-wordpress-themes-for-business/"

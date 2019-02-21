@@ -1,0 +1,33 @@
+
+MWPRESS live demos USE free code and stock images from a variety of sources. Below is a list of each resource.
+
+
+-----------------------------------------------------------------------------------
+General Stock Photos
+-----------------------------------------------------------------------------------
+
+https://unsplash.com - FREE
+
+
+-----------------------------------------------------------------------------------
+Graphics & Mockups
+-----------------------------------------------------------------------------------
+
+http://www.pixeden.com - FREE
+http://www.freepik.com - FREE
+http://cssauthor.com - FREE
+http://designrockr.com/ - FREE
+http://www.dreamstale.com - FREE
+http://Be.net/tranmautritam - FREE
+http://GraphicBurger.com - FREE
+http://covervault.com/ - FREE
+
+
+-----------------------------------------------------------------------------------
+Fonts & Codes
+-----------------------------------------------------------------------------------
+
+http://bulma.io - FREE
+https://wordpress.org/plugins/vc-design-template-library/ - FREE
+http://jaredhardy.com/minimal-devices/ - FREE CSS devices
+
